@@ -1,7 +1,7 @@
 # shark-attack-capstone
 Github repo of a project used to fulfill my final graduation requirement for General Assembly's Data Science Immersive Bootcamp.
 
-Executive Summary:
+Executive Summary: Are you more or less likely to have an encounter with a shark if there were already two unprovoked encounters in that general location this year? My model aims to explain relationships between moon phase, occurance of last encounter, and type of encounter using a Bayesian Network.
 
 Results: 
 1. A model that can predict number of attacks per year given type
